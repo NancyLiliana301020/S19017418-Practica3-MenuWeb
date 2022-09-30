@@ -1,0 +1,61 @@
+html, body{
+    background-color: #DED3ED;
+    margin: 0px;
+    }
+
+header {
+    background:linear-gradient(30deg,#E89892 ,#F2BFC8, #DB8BB7, #F28DEB, #D787E8);
+    color: #DB041A;
+    width: 98%;
+    height: 200px;
+    margin: 1%;
+    }
+
+header h1{
+    text-align: center;
+
+    font-family: 'Princesas de Disney', 'Brush Script MT', Brush Script MT, Brush Script MT;
+    padding: 60px;
+    font-size: 100px;
+    letter-spacing: 10px;
+    }
+
+.wrapper {
+    background-color: #C994A1;
+    width: 98%;
+    height: 400px;
+    margin: 1%;
+    }
+
+.wrapper .page{
+    width: 19%;
+    height: 180px;
+    background-color: #DEC4EC;
+    display: inline-block;
+    margin: 0.30%;
+    }
+
+footer {
+    background-color: #ED8DB4;
+    color: #fff;
+    width: 98%;
+    height: 65px;
+    margin: 1%;
+    }
+
+footer p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 0px;
+    }
+
+.image_link{
+        height: 180px;
+        width: 18.5vw;
+        margin: 1% 0 1% 1%;
+        }
+
+.image_link:hover {
+        filter: grayscale(70%);
+        }
+        
